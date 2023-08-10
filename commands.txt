@@ -10,3 +10,6 @@ git commit m "msg"----- move files to local area from staging area\
 
 
 git push test master
+token 
+
+github --  settings--- devloper settings===generate new token ---personal acccess token===tick all checkbox----generate token----dit pus copy this token

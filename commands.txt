@@ -1,0 +1,9 @@
+git init---- to initialize
+
+touch command.txt--- create text
+
+git status---- list vall untracked files
+
+git add -A----- add all untracked files to staging area
+
+git commit m "msg"----- move files to local area from staging area
